@@ -16,11 +16,7 @@ Opinions are my own.
 	* [Isn't eating meat natural?](#isnt-eating-meat-natural)
 	* [What about lab-grown meat?](#what-about-lab-grown-meat)
 	* [This article makes me angry](#this-article-makes-me-angry)
-	* [Is it true that dairy can contain blood and pus and meat can contain feces?](#is-it-true-that-dairy-can-contain-blood-and-pus-and-meat-can-contain-feces)
-	* [Do animals really suffer and feel pain?](#do-animals-really-suffer-and-feel-pain)
-	* [Even if they do suffer, why should I care? Why does it matter?](#even-if-they-do-suffer-why-should-i-care-why-does-it-matter)
 	* [I want to take the red pill. Can you show me what actually happens on animal farms?](#i-want-to-take-the-red-pill-can-you-show-me-what-actually-happens-on-animal-farms)
-	* [I'm interested in going vegan. What resources can you provide to help?](#im-interested-in-going-vegan-what-resources-can-you-provide-to-help)
 	* [Recipes](#recipes)
 	* [I want to contribute to this page. How do I do that?](#i-want-to-contribute-to-this-page-how-do-i-do-that)
 
@@ -100,12 +96,6 @@ Lab-grown meat is an interesting prospect, and some say they'll wait for it's ge
 #### This article makes me angry
 I understand. Vegans make a lot of people angry. In some cases, they think that vegans have a superiority complex. While that may be true in some cases, I'd like to think that's not the case for me, and it's not the case for most vegans. I also understand some people feel that vegans are "pushing" their lifestyle or opinions on them and that what they eat is a "personal choice." While I agree, peoples' diet and lifestyle involves a lot of personal choices, I would ask this: should a choice that has a victim be considered a personal choice? If one path is sure to inflict suffering and death, and another minimizes it, can it be personal? A personal decision is one that only impacts the person making it.
 
-#### Is it true that dairy can contain blood and pus and meat can contain feces?
-
-#### Do animals really suffer and feel pain?
-
-#### Even if they do suffer, why should I care? Why does it matter?
-
 #### I want to take the red pill. Can you show me what actually happens on animal farms?
 
 >Please don’t refuse with your eyes what the animals endure with their bodies.
@@ -113,12 +103,9 @@ I understand. Vegans make a lot of people angry. In some cases, they think that 
 
 https://youtu.be/LQRAfJyEsko
 
-#### I'm interested in going vegan. What resources can you provide to help?
-
 ##### Recipes
 * [Minimalist baker](https://minimalistbaker.com/recipe-index/?omhide=true)
 * [The Post Punk Kitchen](https://www.theppk.com/)
-* TODO
 
 #### I want to contribute to this page. How do I do that?
 Awesome! The source for this page is hosted on [GitHub](https://github.com/jchoca/vegan-faq) and is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). If you aren't familiar with Git or GitHub, once you create a GitHub account, it's fairly easy to edit this page through the GitHub website. [Click here](https://github.com/jchoca/vegan-faq/edit/main/README.md) to edit this page. Once your edits are complete, choose __Create a new branch for this commit and start a pull request__, and then __Propose changes__. You can also [create a new issue](https://github.com/jchoca/vegan-faq/issues/new) with suggestions for changes to make.
