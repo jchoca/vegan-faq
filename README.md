@@ -9,7 +9,7 @@ Table of Contents
  * [Won't I become B12 deficient?](#wont-i-become-b12-deficient)
  * [If everyone stops eating meat and dairy, won't farmers lose jobs?](#if-everyone-stops-eating-meat-and-dairy-wont-farmers-lose-jobs)
  * [Isn't it expensive to be vegan?](#isnt-it-expensive-to-be-vegan)
- * [Isn't this the fault of factory farms? We should be holding companies accountable instead of blaming individuals. ](#isnt-this-the-fault-of-factory-farms-we-should-be-holding-companies-accountable-instead-of-blaming-individuals)
+ * [Isn't this the fault of factory farms? We should be holding companies accountable instead of blaming individuals. ](#this-is-the-fault-of-factory-farms-we-should-be-holding-companies-accountable-instead-of-blaming-individuals)
  * [Doesn't plant agriculture kill animals still?](#doesnt-plant-agriculture-kill-animals-still)
  * [Isn't going vegan hard?](#isnt-going-vegan-hard)
  * [I heard soy gives you man-boobs](#i-heard-soy-gives-you-man-boobs)
