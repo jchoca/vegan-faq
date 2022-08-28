@@ -30,3 +30,5 @@ jobs:
           input_files: '[["README.md"]]'
           output_files: '["site/index.html"]'
           builtin_stylesheet: 'site/style.css'
+          packages: 'pymdown-extensions'
+          extensions: '["pymdownx.extra"]'
