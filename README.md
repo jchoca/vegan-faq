@@ -1,6 +1,21 @@
 Opinions are my own.
 
-{{TOC}}
+Table of Contents
+=================
+ * [What is veganism?](#what-is-veganism)
+ * [What about vegetarianism? Dairy and eggs don't rely on killing animals, right?](#what-about-vegetarianism-dairy-and-eggs-dont-rely-on-killing-animals-right)
+ * [Isn't vegetarianism better than nothing?](#isnt-vegetarianism-better-than-nothing)
+ * [I work out a lot. How do I get enough calories/protein?](#i-work-out-a-lot-how-do-i-get-enough-caloriesprotein)
+ * [Won't I become B12 deficient?](#wont-i-become-b12-deficient)
+ * [If everyone stops eating meat and dairy, won't farmers lose jobs?](#if-everyone-stops-eating-meat-and-dairy-wont-farmers-lose-jobs)
+ * [Isn't it expensive to be vegan?](#isnt-it-expensive-to-be-vegan)
+ * [This is the fault of factory farms. We should be holding companies accountable instead of blaming individuals. ](#this-is-the-fault-of-factory-farms-we-should-be-holding-companies-accountable-instead-of-blaming-individuals)
+ * [Doesn't plant agriculture kill animals still?](#doesnt-plant-agriculture-kill-animals-still)
+ * [Isn't going vegan hard?](#isnt-going-vegan-hard)
+ * [I heard soy gives you man-boobs](#i-heard-soy-gives-you-man-boobs)
+ * [Isn't eating meat natural?](#isnt-eating-meat-natural)
+ * [What about lab-grown meat?](#what-about-lab-grown-meat)
+ * [This post makes me angry](#this-post-makes-me-angry)
 
 #### What is veganism?
 According to the vegan society, 
@@ -33,7 +48,7 @@ No, but that also depends on your tastes and preferences. Plant-based meat and d
 
 In general, healthy whole foods, such as fruits and vegetables, legumes, tofu, and whole grains, are very affordable. By eating simple, healthy foods, you can easily keep your vegan food budget to [$200-250/month/person](https://www.iamgoingvegan.com/cost-of-being-vegan/).
 
-#### This is the fault of factory farms. We should be holding companies accountable instead of blaming individuals. There is no ethical consumption under capitalism.
+#### This is the fault of factory farms. We should be holding companies accountable instead of blaming individuals.
 That is true, but that kind of black-and-white thinking isn't productive -- we can do both. In our capitalist system, buying a product is akin to voting with your dollar. The current system doesn't inherently reward ethical practices. I'd encourage you to vote for politicians who care about animal equality and incentivizing ethical business practices so we can change the system. In the meantime, the best way to influence change is to stop purchasing these products. 
 
 #### Doesn't plant agriculture kill animals still?
