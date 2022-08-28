@@ -1,11 +1,13 @@
 Opinions are my own.
 
+{{TOC}}
+
 #### What is veganism?
 According to the vegan society, 
 
 >Veganism is a philosophy and way of living which seeks to exclude—as far as is possible and practicable—all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose; and by extension, promotes the development and use of animal-free alternatives for the benefit of animals, humans and the environment. In dietary terms it denotes the practice of dispensing with all products derived wholly or partly from animals.
 
-Veganism is not just a diet. It is a way of life that seeks to eschew all animal exploitation. This also includes avoiding clothing, accessories, make-up, or any other product that relies on animals or animal testing. This also includes avoiding forms of entertainment, such as zoos or aquariums. 
+Veganism is not just a diet. It is a way of life that seeks to eschew all animal exploitation. This also includes avoiding clothing, accessories, make-up, any other products that rely on animals or animal testing, and avoiding forms of entertainment, such as zoos or aquariums, that inherently exploit animals.
 
 #### What about vegetarianism? Dairy and eggs don't rely on killing animals, right?
 Unfortunately, the dairy and egg industry are no less cruel and callous than their meat counterparts. In fact, one might argue that the dairy and beef industry are just two sides of the same coin, as are the egg and chicken industries. 
@@ -42,14 +44,27 @@ No! This depends on your perspective though. Many vegans are motivated by the ho
 
 Speaking personally, there are more than enough plant-based alternatives now to satisfy my own cravings for tasty food. The hardest part about being vegan is not abstaining from animal products. It's having to live in a world where animal suffering is normalized by society at large -- a world where you're constantly faced with the knowledge of this suffering, and most of the people you interact with regularly not only go along with it, but may be actively hostile towards you for not doing so yourself. This is the true reason [vegans are at higher risk for depression](https://pubmed.ncbi.nlm.nih.gov/32483598/) and all vegans know this.
 
-#### I heard soy milk gives you man-boobs
-This is a myth.
+#### I heard soy gives you man-boobs
+This is a myth. Soy contains compounds called [phytoestrogens](https://en.wikipedia.org/wiki/Phytoestrogen#Effects_on_humans), also known as "dietary estrogen" or "plant estrogen." There is currently [no strong evidence](https://www.healthline.com/nutrition/phytoestrogens-and-men#TOC_TITLE_HDR_3) that phytoestrogens affect humans adversely. On the contrary, there is [evidence](https://nutritionfacts.org/2019/11/21/how-phytoestrogens-can-have-anti-estrogenic-effects/) that a certain amount of soy is beneficial to human health.
+
+[Dairy, on the other hand, contains _actual_ estrogen, along with many other hormones, including progesterone, testosterone, prolactin, and insulin-like growth factor-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4524299/). Human milk also contains such hormones. This makes sense when you think about it. Cows milk is meant for baby cows, who may need access to these hormones for proper development, much like human milk for baby humans. Why would adult human beings need to consume another animal's secretions for proper sustenance? Consider that [65% of the world's population is lactose intolerant](https://worldpopulationreview.com/country-rankings/lactose-intolerance-by-country).
+
+Consuming dairy products as an adult human being, along with the naturally occurring hormones they contain, could have serious health implications. Some examples:
+
+* [Dairy consumption as a contributing factor to acne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7847434/)
+* TODO
 
 #### Isn't eating meat natural?
+Perhaps, but does _natural_ equate to _ethical_ from a human's perspective? And does _natural_ always equate to _healthy_, or _nutritionally necessary_?
+
+We could discuss the likely diets of early humans. Just as we make the argument that it's natural for baby cows to consume cows' milk, we could argue that because early humans killed a certain amount of animals and ate a certain amount of meat, that it's natural for us to do so.
+
+However, this argument is mostly irrelevant in our current age. In the wake of technology, a large human population, and the resulting economic scale, we've scaled meat production to levels that treat animals as mere commodities. There is simply nothing _natural_ about the current way animals are bred, raised, and killed for our consumption. The processes of going to the grocery store and purchasing packaged meat or ordering a burger at a restaurant have no resemblance to the process of an ancient human hunter killing and consuming an animal for sustenance.
+
+On the other hand, in the wake of new technology, eating meat simply isn't necessary, regardless of whether or not it's natural. We now have perfectly healthy plant-based alternatives.
 
 #### What about lab-grown meat?
-
-#### Aren't you deficient in vitamin B12?
+Lab-grown meat is an interesting prospect, and some say they'll wait for it's general availability before they stop consuming traditional meat. Who knows when that will happen though -- or if it will ever happen. In either case, lab grown meat still relies on an animal to be produced. They need a small amount of animal cells to grow the meat. Right now they're growing meat in small quantities, so it's easy for them to show the animals they get the cells from as happy cows or chickens grazing. They apply some mild anesthetic and gently scrape some cells off a cow or whatever. However, as we've seen, any product that uses some part of an animal (or their secretions) as an input to production will ultimately become unethical when scaled up. My pessimistic side can envision a future where animals are kept in cages their whole life and their cells are scraped off all day until they die.
 
 #### This post makes me angry
-I understand. Vegans make a lot of people angry. In some cases, they think that vegans have a superiority complex. While that may be true in some cases, I'd like to think that's not the case for me, and it's not the case for a lot of vegans. I also understand some people feel that vegans are "pushing" their lifestyle or opinions on them and that what they eat is a "personal choice." While I agree, peoples' diet and lifestyle involves a lot of personal choices, I would ask this: should a choice that has a victim be considered a personal choice? If one path is sure to inflict suffering and death, and another minimizes it, can it be personal?
+I understand. Vegans make a lot of people angry. In some cases, they think that vegans have a superiority complex. While that may be true in some cases, I'd like to think that's not the case for me, and it's not the case for most vegans. I also understand some people feel that vegans are "pushing" their lifestyle or opinions on them and that what they eat is a "personal choice." While I agree, peoples' diet and lifestyle involves a lot of personal choices, I would ask this: should a choice that has a victim be considered a personal choice? If one path is sure to inflict suffering and death, and another minimizes it, can it be personal? A personal decision is one that only impacts the person making it.
