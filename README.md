@@ -103,6 +103,8 @@ I understand. Vegans make a lot of people angry. In some cases, they think that 
 
 https://youtu.be/LQRAfJyEsko
 
+#### I want to go vegan. What resources can you recommend to help?
+
 ##### Recipes
 * [Minimalist baker](https://minimalistbaker.com/recipe-index/?omhide=true)
 * [The Post Punk Kitchen](https://www.theppk.com/)
