@@ -51,8 +51,11 @@ In general, healthy whole foods, such as fruits and vegetables, legumes, tofu, a
 #### Isn't this the fault of factory farms? We should be holding companies accountable instead of blaming individuals.
 That is true, but that kind of black-and-white thinking isn't productive -- we can do both. In our capitalist system, buying a product is akin to voting with your dollar. The current system doesn't inherently reward ethical practices. I'd encourage you to vote for politicians who care about animal equality and incentivizing ethical business practices so we can change the system. In the meantime, the best way to influence change is to stop purchasing these products. 
 
+#### I'm just one person. How can my purchasing habits influence change?
+Just as voting in political elections can decide the future, so can voting with your dollar. Veganism is ultimately a movement -- the more people that adhere to a vegan lifestyle the more change we'll see.
+
 #### Doesn't plant agriculture kill animals still?
-Mass plant farming/harvesting does result in the death of some animals. However, that number still [pales in comparison](https://animalvisuals.org/projects/1mc/) to the number of animals killed for the production of animal products. This also ignores the fact that, as stated above, most farm animals live on feedlots and are fed grains (as a side note, this might be a contributor to [more food-borne illness](https://pubmed.ncbi.nlm.nih.gov/9733511/)). INSERT FACT ABOUT ANIMAL CALORY EFFICIENCY.
+Mass plant farming/harvesting does result in the death of some animals. However, that number still [pales in comparison](https://animalvisuals.org/projects/1mc/) to the number of animals killed for the production of animal products. This also ignores the fact that, as previously stated, most farm animals live on feedlots and are fed grains (as a side note, this might be a contributor to [more food-borne illness](https://pubmed.ncbi.nlm.nih.gov/9733511/)). Raising animals for food is an inefficient process. TODO
 
 #### Isn't going vegan hard?
 No! This depends on your perspective though. Many vegans are motivated by the horrors they've learned about when researching what happens on industrial farms. Knowing the suffering and pain that the animals endure is usually enough motivation. 
@@ -74,7 +77,9 @@ Perhaps, but does _natural_ equate to _ethical_ from a human's perspective? And 
 
 We could discuss the likely diets of early humans. Just as we make the argument that it's natural for baby cows to consume cows' milk, we could argue that because early humans killed a certain amount of animals and ate a certain amount of meat, that it's natural for us to do so.
 
-However, this argument is mostly irrelevant in our current age. In the wake of technology, a large human population, and the resulting economic scale, we've scaled meat production to levels that treat animals as mere commodities. There is simply nothing _natural_ about the current way animals are bred, raised, and killed for our consumption. The processes of going to the grocery store and purchasing packaged meat or ordering a burger at a restaurant have no resemblance to the process of an ancient human hunter killing and consuming an animal for sustenance.
+However, this argument is mostly irrelevant in our current age. In the wake of technology, a large human population, and the resulting economic scale coupled, we've scaled meat production to levels that treat animals as mere commodities. There is simply nothing _natural_ about the current way animals are bred, raised, and killed for our consumption. The processes of going to the grocery store and purchasing packaged meat or ordering a burger at a restaurant have no resemblance to the process of an ancient human hunter killing and consuming an animal for sustenance. Many animals raised for consumption may never see the light of day or feel the earth beneath their feet. They may not even be able to turn around. Is that natural?
+
+![Pigs in cages](/images/pigs-in-cages.jpg)
 
 On the other hand, in the wake of new technology, eating meat simply isn't necessary, regardless of whether or not it's natural. We now have perfectly healthy plant-based alternatives.
 
