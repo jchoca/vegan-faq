@@ -28,7 +28,7 @@ According to the vegan society,
 Veganism is not just a diet. It is a way of life that seeks to eschew all animal exploitation. This also includes avoiding clothing, accessories, make-up, any other products that rely on animals or animal testing, and avoiding forms of entertainment, such as zoos or aquariums, that inherently exploit animals.
 
 #### What about vegetarianism? Dairy and eggs don't rely on killing animals, right?
-Unfortunately, the dairy and egg industry are no less cruel and callous than their meat counterparts. In fact, one might argue that the dairy and beef industry are just two sides of the same coin, as are the egg and chicken industries and the wool and lamb/mutton industries. The goal of animal agriculture is to produce as much animal products as possible with the highest margins as possible.
+Unfortunately, the dairy and egg industry are no less cruel and callous than their meat counterparts. In fact, one might argue that the dairy and beef industry are just two sides of the same coin, as are the egg and chicken industries and the wool and lamb/mutton industries.
 
 Like all mammals, cows produce milk to feed their young, so milk production is stimulated by pregnancy and birth. In order to create milk, female cows are forcefully inseminated. Like many other creatures, cows want to bond with their young. Unfortunately, when they give birth, their calf is torn away from them. If it's a female, it will likely become another dairy cow. If it's a male, it will most-likely be killed or sold for veal. The mother is then made pregnant again. This cycle continues until her body is "used up" and no longer profitable, at which point she will be killed for beef as well.
 
