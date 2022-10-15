@@ -1,24 +1,27 @@
 Opinions are my own.
 
 * [Table of Contents](#table-of-contents)
-	* [What is veganism?](#what-is-veganism)
-	* [What about vegetarianism? Dairy and eggs don't rely on killing animals, right?](#what-about-vegetarianism-dairy-and-eggs-dont-rely-on-killing-animals-right)
-	* [Isn't vegetarianism better than nothing?](#isnt-vegetarianism-better-than-nothing)
-	* [I work out a lot. How do I get enough calories/protein?](#i-work-out-a-lot-how-do-i-get-enough-caloriesprotein)
-	* [Won't I become B12 deficient?](#wont-i-become-b12-deficient)
-	* [If everyone stops eating meat and dairy, won't farmers lose jobs?](#if-everyone-stops-eating-meat-and-dairy-wont-farmers-lose-jobs)
-	* [Isn't it expensive to be vegan?](#isnt-it-expensive-to-be-vegan)
-	* [Isn't this the fault of factory farms? We should be holding companies accountable instead of blaming individuals.](#isnt-this-the-fault-of-factory-farms-we-should-be-holding-companies-accountable-instead-of-blaming-individuals)
-	* [I'm just one person. How can my purchasing habits influence change?](#im-just-one-person-how-can-my-purchasing-habits-influence-change)
-	* [Doesn't plant agriculture kill animals still?](#doesnt-plant-agriculture-kill-animals-still)
-	* [Isn't going vegan hard?](#isnt-going-vegan-hard)
-	* [I heard soy gives you man boobs](#i-heard-soy-gives-you-man-boobs)
-	* [Isn't eating meat natural?](#isnt-eating-meat-natural)
-	* [What about lab-grown meat?](#what-about-lab-grown-meat)
-	* [This article makes me angry](#this-article-makes-me-angry)
-	* [I want to take the red pill. Can you show me what actually happens on animal farms?](#i-want-to-take-the-red-pill-can-you-show-me-what-actually-happens-on-animal-farms)
-	* [Recipes](#recipes)
-	* [I want to contribute to this page. How do I do that?](#i-want-to-contribute-to-this-page-how-do-i-do-that)
+     * [What is veganism?](#what-is-veganism)
+     * [What about vegetarianism? Dairy and eggs don't rely on killing animals, right?](#what-about-vegetarianism-dairy-and-eggs-dont-rely-on-killing-animals-right)
+     * [Isn't vegetarianism better than nothing?](#isnt-vegetarianism-better-than-nothing)
+     * [I work out a lot. How do I get enough calories/protein?](#i-work-out-a-lot-how-do-i-get-enough-caloriesprotein)
+     * [Won't I become B12 deficient?](#wont-i-become-b12-deficient)
+     * [If everyone stops eating meat and dairy, won't farmers lose jobs?](#if-everyone-stops-eating-meat-and-dairy-wont-farmers-lose-jobs)
+     * [Isn't it expensive to be vegan?](#isnt-it-expensive-to-be-vegan)
+     * [Isn't this the fault of factory farms? We should be holding companies accountable instead of blaming individuals.](#isnt-this-the-fault-of-factory-farms-we-should-be-holding-companies-accountable-instead-of-blaming-individuals)
+     * [I'm just one person. How can my purchasing habits influence change?](#im-just-one-person-how-can-my-purchasing-habits-influence-change)
+     * [Doesn't plant agriculture kill animals still?](#doesnt-plant-agriculture-kill-animals-still)
+     * [Isn't going vegan hard?](#isnt-going-vegan-hard)
+     * [I heard soy gives you man boobs](#i-heard-soy-gives-you-man-boobs)
+     * [Isn't eating meat natural?](#isnt-eating-meat-natural)
+     * [What about lab-grown meat?](#what-about-lab-grown-meat)
+     * [What about people in food deserts? They can't go vegan.](#what-about-people-in-food-deserts-they-cant-go-vegan)
+     * [My prescription drug has animal products in it. How can I be vegan?](#my-prescription-drug-has-animal-products-in-it-how-can-i-be-vegan)
+     * [What about hunting? Isn't hunting better than buying meat at the grocery store?](#what-about-hunting-isnt-hunting-better-than-buying-meat-at-the-grocery-store)
+     * [I want to take the red pill. Can you show me what actually happens on animal farms?](#i-want-to-take-the-red-pill-can-you-show-me-what-actually-happens-on-animal-farms)
+     * [I want to go vegan. What resources can you recommend to help?](#i-want-to-go-vegan-what-resources-can-you-recommend-to-help)
+        * [Recipes](#recipes)
+     * [I want to contribute to this page. How do I do that?](#i-want-to-contribute-to-this-page-how-do-i-do-that)
 
 #### What is veganism?
 According to the vegan society, 
@@ -95,6 +98,25 @@ Lab-grown meat is an interesting prospect, and some say they'll wait for it's ge
 
 #### What about people in food deserts? They can't go vegan.
 That's true, and we shouldn't expect someone in a food desert to go vegan. However, if anything, the existence of a food desert is reason for those of us who can go vegan to do so. By going vegan, we create demand for vegan and/or plant-based products, which should in theory create more choices for people in food deserts.
+
+#### My prescription drug has animal products in it. How can I be vegan?
+Referring to the definition of veganism above, it uses the terms "possible and practicable." If you abstain from all other animal products, but (as an example) you must take a pill that's made of gelatin for your health, then I think that still counts as "possible and practicable".
+
+#### What about hunting? Isn't hunting better than buying meat at the grocery store?
+Please check out [this video](https://youtu.be/BODIUmBTWk8) by Earthling Ed where he addresses Joe Rogan's arguments for hunting. 
+
+Otherwise, here is a summary of some of the issues:
+
+By killing a wild animal, you're not only creating an extra, unnecessary death, but you're also depriving a natural predator from food. Natural predators will also kill the weak, sick animals, but in contrary, hunters tend to kill the strongest, most impressive animals. This behavior creates an ecological imbalance in the evolution of animal species. For example, there are now fewer Asian elephants with tusks, and the horns of Big Horn sheep are becoming smaller. Hunters are effectively creating a transgression in the development of animals. Also, when an animal dies, its body becomes part of a metabolic cycle and will be consumed by scavengers and natural decomposition processes and become part of the soil. By killing an animal and removing it, hunters are disrupting that metabolic cycle.
+
+Society has often looked down on people who kill animals for sport and don't eat the animal -- for example, someone who kills a wild lion, bear, or elephant, and takes a picture of them smiling next to its dead body, only to remove the tusks or some other part of the animal as a trophy. But from the animal's perspective, does it matter? They're dead, so what does it matter from their point of view what's done with their body? Hunting for sport or hunting for meat are the same -- unnecessary killing done out of desire, not necessity.
+
+With the world's human population, hunting is also not possible for everyone and is unsustainable. If everyone hunted for food, all the animals of the world would be decimated.
+
+**What about animal overpopulation though?**
+Overpopulation is not a natural phenomenon and is caused by two primary things: 1) the number of natural predators being decimated by hunters and human activity and 2) destruction of the natural world, both of which are significantly caused by the animal agriculture industry. About 50% of the contiguous US has been altered to make way for animal farming, which means about half of the country's natural landscape has been destroyed by animal agriculture. Farmers also kill predators to protect their livestock. The USDA (which is funded by taxpayers) actually places cyanide bombs throughout rural America to kill wild animals and protect farmer's interests. 
+
+Instead of hunting, the proper solution is to either use contraception or [reintroduce natural predators to create ecological balance](https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/).
 
 #### I want to take the red pill. Can you show me what actually happens on animal farms?
 
