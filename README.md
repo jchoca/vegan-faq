@@ -93,8 +93,8 @@ On the other hand, in the wake of new technology, eating meat simply isn't neces
 #### What about lab-grown meat?
 Lab-grown meat is an interesting prospect, and some say they'll wait for it's general availability before they stop consuming traditional meat. Who knows when that will happen though -- or if it will ever happen. In either case, lab grown meat still relies on an animal to be produced. They need a small amount of animal cells to grow the meat. Right now they're growing meat in small quantities, so it's easy for them to show the animals they get the cells from as happy cows or chickens grazing. They apply some mild anesthetic and gently scrape some cells off a cow or whatever. However, as we've seen, any product that uses some part of an animal (or their secretions) as an input to production will ultimately become unethical when scaled up. My pessimistic side can envision a future where animals are kept in cages their whole life and their cells are scraped off all day until they die.
 
-#### This article makes me angry
-I understand. Vegans make a lot of people angry. In some cases, they think that vegans have a superiority complex. While that may be true sometimes, I'd like to think that's not the case for me, and it's not the case for most vegans. I also understand some people feel that vegans are "pushing" their lifestyle or opinions on them and that what they eat is a "personal choice." While I agree, peoples' diet and lifestyle involves a lot of personal choices, I would ask this: should a choice that has a victim be considered a personal choice? If one path is sure to inflict suffering and death on _someone else_, and another minimizes it, can it be personal? A personal decision is one that only impacts the person making it.
+#### What about people in food deserts? They can't go vegan.
+That's true, and we shouldn't expect someone in a food desert to go vegan. However, if anything, the existence of a food desert is reason for those of us who can go vegan to do so. By going vegan, we create demand for vegan and/or plant-based products, which should in theory create more choices for people in food deserts.
 
 #### I want to take the red pill. Can you show me what actually happens on animal farms?
 
@@ -106,8 +106,12 @@ https://youtu.be/LQRAfJyEsko
 #### I want to go vegan. What resources can you recommend to help?
 
 ##### Recipes
-* [Minimalist baker](https://minimalistbaker.com/recipe-index/?omhide=true)
 * [The Post Punk Kitchen](https://www.theppk.com/)
+* [Cilantro and Citronella](https://www.cilantroandcitronella.com)
+* [The Full Helping](https://www.thefullhelping.com)
+* [Simple Veganista](https://simple-veganista.com)
+* [Avante Garde Vegan](https://www.avantgardevegan.com)
+* [The Edgy Veg](https://www.theedgyveg.com)
 
 #### I want to contribute to this page. How do I do that?
 Awesome! The source for this page is hosted on [GitHub](https://github.com/jchoca/vegan-faq) and is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). If you aren't familiar with Git or GitHub, once you [create a GitHub account](https://github.com/signup), it's fairly easy to edit this page through the GitHub website. [Click here](https://github.com/jchoca/vegan-faq/edit/main/README.md) to edit this page. Once your edits are complete, choose __Create a new branch for this commit and start a pull request__, and then __Propose changes__. You can also check out the [issues](https://github.com/jchoca/vegan-faq/issues) section or [create a new issue](https://github.com/jchoca/vegan-faq/issues/new) with suggestions for changes.
