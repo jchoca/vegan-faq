@@ -97,7 +97,7 @@ On the other hand, in the wake of new technology, eating meat simply isn't neces
 Lab-grown meat is an interesting prospect, and some say they'll wait for it's general availability before they stop consuming traditional meat. Who knows when that will happen though -- or if it will ever happen. In either case, lab grown meat still relies on an animal to be produced. They need a small amount of animal cells to grow the meat. Right now they're growing meat in small quantities, so it's easy for them to show the animals they get the cells from as happy cows or chickens grazing. They apply some mild anesthetic and gently scrape some cells off a cow or whatever. However, as we've seen, any product that uses some part of an animal (or their secretions) as an input to production will ultimately become unethical when scaled up. My pessimistic side can envision a future where animals are kept in cages their whole life and their cells are scraped off all day until they die.
 
 #### What about people in food deserts? They can't go vegan.
-That's true, and we shouldn't expect someone in a food desert to go vegan. However, if anything, the existence of a food desert is reason for those of us who can go vegan to do so. By going vegan, we create demand for vegan and/or plant-based products, which should in theory create more choices for people in food deserts.
+That's true, and we shouldn't expect someone in a food desert to go vegan. However, what about someone who lives in a food desert and _wants_ to go vegan? Is someone who _can_ go vegan and deliberately choosing not to helping that person? If anything, the existence of a food desert is reason for those of us who can go vegan to do so. By going vegan, we create demand for vegan and/or plant-based products, which should in theory create more choices for people in food deserts.
 
 #### My prescription drug has animal products in it. How can I be vegan?
 Referring to the definition of veganism above, it uses the terms "possible and practicable." If you abstain from all other animal products, but (as an example) you must take a pill that's made of gelatin for your health, then I think that still counts as "possible and practicable".
@@ -135,6 +135,7 @@ https://youtu.be/LQRAfJyEsko
 * [Avante Garde Vegan](https://www.avantgardevegan.com)
 * [The Edgy Veg](https://www.theedgyveg.com)
 * [Connoisseurus Veg](https://www.connoisseurusveg.com/)
+* [School Night Vegan](https://schoolnightvegan.com)
 
 #### I want to contribute to this page. How do I do that?
 Awesome! The source for this page is hosted on [GitHub](https://github.com/jchoca/vegan-faq) and is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). If you aren't familiar with Git or GitHub, once you [create a GitHub account](https://github.com/signup), it's fairly easy to edit this page through the GitHub website. [Click here](https://github.com/jchoca/vegan-faq/edit/main/README.md) to edit this page. Once your edits are complete, choose __Create a new branch for this commit and start a pull request__, and then __Propose changes__. You can also check out the [issues](https://github.com/jchoca/vegan-faq/issues) section or [create a new issue](https://github.com/jchoca/vegan-faq/issues/new) with suggestions for changes.
