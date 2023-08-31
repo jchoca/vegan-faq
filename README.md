@@ -142,6 +142,7 @@ https://youtu.be/LQRAfJyEsko
 * [The Edgy Veg](https://www.theedgyveg.com)
 * [Connoisseurus Veg](https://www.connoisseurusveg.com/)
 * [School Night Vegan](https://schoolnightvegan.com)
+* [Vegan Richa](https://www.veganricha.com)
 
 #### I want to contribute to this page. How do I do that?
 Awesome! The source for this page is hosted on [GitHub](https://github.com/jchoca/vegan-faq) and is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). If you aren't familiar with Git or GitHub, once you [create a GitHub account](https://github.com/signup), it's fairly easy to edit this page through the GitHub website. [Click here](https://github.com/jchoca/vegan-faq/edit/main/README.md) to edit this page. Once your edits are complete, choose __Create a new branch for this commit and start a pull request__, and then __Propose changes__. You can also check out the [issues](https://github.com/jchoca/vegan-faq/issues) section or [create a new issue](https://github.com/jchoca/vegan-faq/issues/new) with suggestions for changes.
