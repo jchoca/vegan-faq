@@ -119,6 +119,8 @@ Society has often looked down on people who kill animals for sport and don't eat
 
 With the world's human population, hunting is also not possible for everyone and is unsustainable. If everyone hunted for food, all the animals of the world would be decimated.
 
+If you're interested in hunting, why not try wildlife photography? It's essentially the same activity except you're shooting a camera instead of a weapon, and it celebrates animals and puts them in the spotlight instead of causing suffering and death.
+
 **What about animal overpopulation though?**
 Overpopulation is not a natural phenomenon and is caused by two primary things: 1) the number of natural predators being decimated by hunters and human activity and 2) destruction of the natural world, both of which are significantly caused by the animal agriculture industry. About 50% of the contiguous US has been altered to make way for animal farming, which means about half of the country's natural landscape has been destroyed by animal agriculture. Farmers also kill predators to protect their livestock. The USDA (which is funded by taxpayers) actually places cyanide bombs throughout rural America to kill wild animals and protect farmer's interests. 
 
