@@ -103,7 +103,7 @@ Lab-grown meat is an interesting prospect, and some say they'll wait for it's ge
 #### What about people in food deserts? They can't go vegan.
 We shouldn't expect someone in a food desert to go vegan. However, what about someone who lives in a food desert and _wants_ to go vegan? Is someone who _can_ go vegan and deliberately choosing not to helping that person? If anything, the existence of a food desert is reason for those of us who can go vegan to do so. By going vegan, we create demand for vegan and/or plant-based products, which should in theory create more choices for people in food deserts.
 
-Is it fair to use a marginalized group you don't belong to as a crutch for your own inaction? Do you think a member of that group would appreciate it, especially someone who wants to take said action?
+Is it fair to use a marginalized group you don't belong to as a crutch for your own inaction? Do you think a member of that group would appreciate it, especially someone who wants to take said action and isn't able to?
 
 #### My prescription drug has animal products in it. How can I be vegan?
 Referring to the definition of veganism above, it uses the terms "possible and practicable." If you abstain from all other animal products, but (as an example) you must take a pill that's made of gelatin for your health, then I think that still counts as "possible and practicable."
