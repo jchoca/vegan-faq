@@ -35,7 +35,7 @@ Unfortunately, the dairy and egg industry are no less cruel and callous than the
 
 Like all mammals, cows produce milk to feed their young, so milk production is stimulated by pregnancy and birth. In order to create milk, female cows are forcefully inseminated. Like many other creatures, cows want to bond with their young. Unfortunately, when they give birth, their calf is torn away from them. If the calf is a female, she will likely become another dairy cow. If he's a male, he will most-likely be killed or sold for veal. The mother is then made pregnant again. This cycle continues until her body is "used up" and no longer profitable, at which point she will be killed for beef as well.
 
-Likewise, male chickens have little "value" in the egg industry. They aren't large enough to be used as "boilers" (chickens killed for their meat) and they don't produce eggs. As a result, the egg industry resorts to culling of male chicks (usually chickens that are less than a day old) by throwing them in a large macerator (basically a big blender) or gas chamber.
+Likewise, male chickens have little "value" in the egg industry. They aren't large enough to be used as "broilers" (chickens killed for their meat) and they don't produce eggs. As a result, the egg industry resorts to culling of male chicks (usually chickens that are less than a day old) by throwing them in a large macerator (basically a big blender) or gas chamber.
 
 #### Isn't vegetarianism better than nothing?
 In some ways, yes. Vegetarianism generally results in less animal death than the typical Western diet. However, as mentioned above, it still generally involves supporting the egg and dairy industries, which still inflict unimaginable amounts of animal suffering.
